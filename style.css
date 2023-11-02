@@ -1,13 +1,29 @@
 .wrapper {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-  }
-  
-  img {
-    display: block;
-    margin: 15px;
-    width: 600px;
-    max-width: 100%;
-  }
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+img {
+  display: block;
+  margin: 15px;
+  width: 600px;
+  max-width: 100%;
+}
+.expanding__frog:not(:hover) {
+  display: block;
+  margin: 0 auto;
+  border: 20px solid yellow;
+  transition: 0.5s;
+  width: 20%;
+}
+.expanding__frog:hover {
+  display: block;
+  margin: 0 auto;
+  transition: 0.5s;
+  border: 60px solid rgb(255, 166, 0);
+  width: 25%;
+  border-radius: 20px;
+  cursor: pointer;
+}
