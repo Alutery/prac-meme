@@ -1,2 +1,2 @@
-$name = "Alliya";
+$name = "Aliya";
 print "Hello, $name!";
