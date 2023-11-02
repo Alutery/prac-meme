@@ -1,3 +1,2 @@
 # prac-memes
-
-Жду ваши мемы
+updated READme file for Aliya :>s
