@@ -1,2 +1,2 @@
 # prac-memes
-updated READme file for Aliya :>s
+updated READme file for Aliya :>ss
